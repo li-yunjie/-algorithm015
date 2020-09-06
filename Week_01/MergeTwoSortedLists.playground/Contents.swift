@@ -20,3 +20,6 @@ func mergeTwoLists(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         return l2
     }
 }
+
+let test = -10%4
+print(test)
